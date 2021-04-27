@@ -20,3 +20,6 @@
 - mixer.music.load('xxx.mp3') 讀取鈴聲
 - mixer.music.play() 播放
 - mixer.music.stop() 停止
+
+#### 執行結果
+![image](img.PNG)
